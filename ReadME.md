@@ -49,7 +49,7 @@ Challenges Faced
 ## Deployment
 The Fidantos Online Shopping Website was deployed on Github. 
 
-Live website URL: Fidantos Shopping Website
+Live website URL: https://mwandikiantony.github.io/The-Fidantos-Online-Shopping/
 
 ## How to Run Locally
 To run the website locally on your computer:
